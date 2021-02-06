@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/handod.github.io/saidonKeeperApp/static/js/main.e302f1a5.chunk.js",
+    "main.js.map": "/handod.github.io/saidonKeeperApp/static/js/main.e302f1a5.chunk.js.map",
+    "runtime-main.js": "/handod.github.io/saidonKeeperApp/static/js/runtime-main.9262007e.js",
+    "runtime-main.js.map": "/handod.github.io/saidonKeeperApp/static/js/runtime-main.9262007e.js.map",
+    "static/js/2.828b091c.chunk.js": "/handod.github.io/saidonKeeperApp/static/js/2.828b091c.chunk.js",
+    "static/js/2.828b091c.chunk.js.map": "/handod.github.io/saidonKeeperApp/static/js/2.828b091c.chunk.js.map",
+    "index.html": "/handod.github.io/saidonKeeperApp/index.html",
+    "precache-manifest.d5526f7a7f9e1cbb5f07c5b9a3c88a3b.js": "/handod.github.io/saidonKeeperApp/precache-manifest.d5526f7a7f9e1cbb5f07c5b9a3c88a3b.js",
+    "service-worker.js": "/handod.github.io/saidonKeeperApp/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9262007e.js",
+    "static/js/2.828b091c.chunk.js",
+    "static/js/main.e302f1a5.chunk.js"
+  ]
+}
